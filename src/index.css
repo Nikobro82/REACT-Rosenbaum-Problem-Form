@@ -1,0 +1,36 @@
+#button1 {
+    text-align: center;
+    justify-content: center;  
+    align-items: center;
+    background-color: green;
+    color: white;
+}
+
+body {
+    background-image: url("./assets/btimage.png");
+    color:goldenrod;
+    background-size: 25%;
+}
+    
+#mainDiv {
+    background-color: black;
+    height: 300;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15%;
+    border: 5px solid gold;
+}
+
+#bottomDiv {
+    background-color: black;
+    height: 450px;
+    width: 60%;
+    top: 0;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid gold;
+    opacity: 1.0;
+}
+
+
